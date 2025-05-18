@@ -1,5 +1,6 @@
 package tarea6ed;
 
+    // holi, voy a hacer un commit con Netbeans
 public class Tarea6EDClase {
     
     private static final int MINIMO_PARA_REBAJA = 3;
