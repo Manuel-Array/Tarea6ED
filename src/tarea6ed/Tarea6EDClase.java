@@ -26,5 +26,3 @@ public class Tarea6EDClase {
         System.out.println("Enviado");
     }
 }
-
-// y ahora hago un commit!
